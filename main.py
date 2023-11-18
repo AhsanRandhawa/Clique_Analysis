@@ -1,6 +1,6 @@
 import random
 
-def get_random_adjacent_node(cur_node, size_graph: int) -> int:
+def get_random_adjacent_node(cur_node: int, size_graph: int) -> int:
     index = random.randrange(size_graph - 1)
     if cur_node <= index:
         index += 1

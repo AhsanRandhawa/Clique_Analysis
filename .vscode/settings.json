@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "tuple": "cpp",
+        "bitset": "cpp",
+        "array": "cpp",
+        "cstdint": "cpp"
+    }
+}
